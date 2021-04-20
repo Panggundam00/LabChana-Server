@@ -20,4 +20,4 @@ it will run in localhoost:8091
 นายฐนพนธ์ ทักขิณะ	6110405957
 นายวรเมธ สมบูรณ์เอนก	6110406180
 
-## Performance testing is in jmeter directory
+## Performance testing is in jmeter-test directory
