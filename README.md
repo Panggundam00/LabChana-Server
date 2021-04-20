@@ -1,20 +1,16 @@
-# LabChana
+# LabChana-Server
 
-LabChana is a web application for programming practice
+LabChana-Server is a back-end api for LabChana
 
-Front-end developed by React.js
-
-Use Bootstrap framework and some componets from Material UI
+Back-end developed by Spring-boot
 
 # How to install
 
 Clone this git https://github.com/ThanakornK/LabChana.git
 
- docker-compose up -d --build
+ run main method
 
- docker-compose up
-
-it will run in localhoost:3000
+it will run in localhoost:8091
 
 # Members
 
@@ -23,3 +19,5 @@ it will run in localhoost:3000
 นายธีรวีร์ พจนานภาศิริ	6110402788
 นายฐนพนธ์ ทักขิณะ	6110405957
 นายวรเมธ สมบูรณ์เอนก	6110406180
+
+## Performance testing is in jmeter directory
